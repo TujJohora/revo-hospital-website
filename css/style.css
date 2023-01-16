@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+
+/* variables */
+:root {
+  --fros-blue-color: #0050d5;
+  --light-blue-color: #16c5ff;
+  --dark-color: #202020;
+  --light-gray: #dedede;
+  --dark-gray: #a1a1a0;
+  --light-color: #fff;
+  --poppins-font: "Poppins", sans-serif;
+  --transition: all 0.3s ease-in-out;
+  --box-shadow: 0 0 15px 2px rgba(0, 0, 0, 0.2) !important;
+}
